@@ -6,7 +6,7 @@ export default function IsbnExplanation() {
         <div className="md:max-w-xl md:mx-auto">
           <Card>
             <Text variation="info">
-              O ISBN (International Standard Book Number/ Padrão Internacional de Numeração de Livro) é um padrão que usa 10 ou 13 números para criar uma espécie de &quot;RG&quot; para livros, artigos e apostilas.             
+              O ISBN (International Standard Book Number/ Padrão Internacional de Numeração de Livros) é um padrão que usa 10 ou 13 números para criar um registro geral para livros, artigos e apostilas. Este sistema retorna informações de livros publicados no Brasil, com código ISBN de prefixo 5 ou 85.          
             </Text>
             <div className="flex justify-center my-1">
               <Image src="/ISBN13.png" alt="Example of ISBN code" width={"200"} height={200} />
